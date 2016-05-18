@@ -10,3 +10,4 @@ grant connect, resource to task2;
 
 2. даем ему привелегии на создание таблиц и сессий
 3. запускаем скрипт создания схемы ДБ crebas.sql
+4. данные генерить можно с сайта http://www.generatedata.com/
