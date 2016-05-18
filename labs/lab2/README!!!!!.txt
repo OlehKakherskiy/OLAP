@@ -9,4 +9,4 @@ temporary tablespace temp quota 100M ON users;
 grant connect, resource to task2;
 
 2. даем ему привелегии на создание таблиц и сессий
-3. запускаем скрипт создания схемы ДБ supermarketSchema.sql
+3. запускаем скрипт создания схемы ДБ crebas.sql
